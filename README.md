@@ -4,9 +4,8 @@ sulfate-coupled anaerobic oxidation of methane. This partnership is an obligate 
 archaea (ANME) and sulfate reducing bacteria. We aim to provide the following resources particularly to investigate the synytrophic SRB
 partner of ANME:-
 
-1. A curated database of metagenomes from known syntrophic SRB partners of ANME
+1. Gene trees for proteins predicted to be important in the syntrophic SRB for partnership with anaerobic methanotrophic archaea (ANME)
 2. HMMs for some proteins involved in extracellular electron transfer in the syntrophic SRB
-3. Gene trees for proteins predicted to be important in the syntrophic SRB for partnership with anaerobic methanotrophic archaea (ANME)
 
 If you use these resources, please cite the following publication:
 Physiological adaptation of sulfate reducing bacteria in syntrophic partnership with anaerobic methanotrophic archaea
